@@ -3,3 +3,4 @@ target
 log
 *.iml
 LOG_HOME_IS_UNDEFINED/
+.mvn
